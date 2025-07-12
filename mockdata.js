@@ -243,6 +243,6 @@ export const projectsData = [
         <li>Tracked performance daily and scaled top performers</li>
       </ul>
     `,
-    images: ["images/project_3_a.jpeg", "images/project_3_b.jpeg"],
+    images: ["images/facebook ads 2.jpg", "images/project_3_b.jpeg"],
   },
 ];
